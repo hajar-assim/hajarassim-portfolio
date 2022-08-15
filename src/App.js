@@ -1,11 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Pages from './pages';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hajarass</h1>
-      <h2> Please work</h2>
+      <Pages />
     </div>
   );
 }

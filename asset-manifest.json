@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/hajarassim-portfolio/static/css/main.1eba7360.css",
-    "main.js": "/hajarassim-portfolio/static/js/main.b9bd5cfc.js",
+    "main.js": "/hajarassim-portfolio/static/js/main.03210c6e.js",
     "static/js/787.ceae7bbe.chunk.js": "/hajarassim-portfolio/static/js/787.ceae7bbe.chunk.js",
     "static/media/jelly.jpeg": "/hajarassim-portfolio/static/media/jelly.aadec9f3a10d5630d6e4.jpeg",
     "static/media/cardImg2.png": "/hajarassim-portfolio/static/media/cardImg2.03de35a92e7b8a2e8f0f.png",
+    "static/media/cardImg4.png": "/hajarassim-portfolio/static/media/cardImg4.0951b54780460be224a3.png",
     "static/media/cardImg0.png": "/hajarassim-portfolio/static/media/cardImg0.9164e12222fc5416d468.png",
     "static/media/cardImg3.png": "/hajarassim-portfolio/static/media/cardImg3.88a064d581ec12ada9ed.png",
     "index.html": "/hajarassim-portfolio/index.html",
     "main.1eba7360.css.map": "/hajarassim-portfolio/static/css/main.1eba7360.css.map",
-    "main.b9bd5cfc.js.map": "/hajarassim-portfolio/static/js/main.b9bd5cfc.js.map",
+    "main.03210c6e.js.map": "/hajarassim-portfolio/static/js/main.03210c6e.js.map",
     "787.ceae7bbe.chunk.js.map": "/hajarassim-portfolio/static/js/787.ceae7bbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1eba7360.css",
-    "static/js/main.b9bd5cfc.js"
+    "static/js/main.03210c6e.js"
   ]
 }

@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/hajarassim-portfolio/static/css/main.1eba7360.css",
-    "main.js": "/hajarassim-portfolio/static/js/main.03210c6e.js",
+    "main.css": "/hajarassim-portfolio/static/css/main.5dbbccc8.css",
+    "main.js": "/hajarassim-portfolio/static/js/main.68946953.js",
     "static/js/787.ceae7bbe.chunk.js": "/hajarassim-portfolio/static/js/787.ceae7bbe.chunk.js",
-    "static/media/jelly.jpeg": "/hajarassim-portfolio/static/media/jelly.aadec9f3a10d5630d6e4.jpeg",
     "static/media/cardImg2.png": "/hajarassim-portfolio/static/media/cardImg2.03de35a92e7b8a2e8f0f.png",
-    "static/media/cardImg4.png": "/hajarassim-portfolio/static/media/cardImg4.0951b54780460be224a3.png",
     "static/media/cardImg0.png": "/hajarassim-portfolio/static/media/cardImg0.9164e12222fc5416d468.png",
+    "static/media/cardImg4.png": "/hajarassim-portfolio/static/media/cardImg4.3135a17af580b9aafac9.png",
     "static/media/cardImg3.png": "/hajarassim-portfolio/static/media/cardImg3.88a064d581ec12ada9ed.png",
+    "static/media/welcome_image.svg": "/hajarassim-portfolio/static/media/welcome_image.e63ad4b1f7f34352ca07cf1223f75c18.svg",
+    "static/media/aboutme.svg": "/hajarassim-portfolio/static/media/aboutme.ec7beed261e9ee3afee45683bd81a2af.svg",
     "index.html": "/hajarassim-portfolio/index.html",
-    "main.1eba7360.css.map": "/hajarassim-portfolio/static/css/main.1eba7360.css.map",
-    "main.03210c6e.js.map": "/hajarassim-portfolio/static/js/main.03210c6e.js.map",
+    "static/media/entrust.svg": "/hajarassim-portfolio/static/media/entrust.70c0749feffe7ce049d5bd3e67bbd242.svg",
+    "main.5dbbccc8.css.map": "/hajarassim-portfolio/static/css/main.5dbbccc8.css.map",
+    "main.68946953.js.map": "/hajarassim-portfolio/static/js/main.68946953.js.map",
     "787.ceae7bbe.chunk.js.map": "/hajarassim-portfolio/static/js/787.ceae7bbe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1eba7360.css",
-    "static/js/main.03210c6e.js"
+    "static/css/main.5dbbccc8.css",
+    "static/js/main.68946953.js"
   ]
 }

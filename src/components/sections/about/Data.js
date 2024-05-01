@@ -1,5 +1,5 @@
 export const DataObj1 = {
-    about: "Hello! My name's Hajar Assim. I'm currently a second-year software engineering student at Carleton University. My goal is to explore different areas in tech, as well as connect with new people and build new relationships. ",
-    skills: "Some technologies that I've been working on are: Python, React.js, Javascript, and HTML & CSS.",
-    internship: "I am currently on the lookout for Summer 2023 internship opportunities.",
+    about: "Hey there, I'm Hajar. A third-year software engineering student at Carleton University, Ottawa. My goal is to venture through the dynamic tech landscape while also forming meaningful connections on the path ahead.",
+    skills: "Passionate about enhancing human experiences, I thrive in full stack development, from refining front-end experiences to mastering intricate back-end workings. Beyond coding and classes, you'll find me immersed in video games, books, and the vibrant world of watercolor painting ジ.",
+    internship: "Some technologies that I've been working with are: Spring framework, Spring Boot, Java, and React.js.",
 }

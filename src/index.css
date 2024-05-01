@@ -11,4 +11,15 @@
 .p2 {
   padding: 0.5rem 1rem;
   font-size: small;
+  color: #9E9E9E;
+}
+
+.p1 {
+  color: #9f8bcf;
+  font-weight: 500;
+  font-size: large;
+}
+
+.cardImg {
+  border-radius: 20px;
 }

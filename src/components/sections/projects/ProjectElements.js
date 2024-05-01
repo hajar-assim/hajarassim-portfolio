@@ -1,42 +1,41 @@
 import styled from "styled-components";
-
+import {device} from './../../../devices';
 
 
 // CONTAINERS
 
 export const AboutContainer = styled.div`
    //border: solid pink;
-    display: flex;
-    margin-top: 170px;
-    margin-bottom: 170px;
     text-align: left;
     align-items: left;
-    margin-left: 15rem;
-    margin-right: 15rem;
-    flex-direction: column;
+
+    @media ${device.iPhone12P} {
+        max-width: 390px;
+        margin-right:10px;
+        margin-left:10px;
+    }
 `
 
 export const ProjectContainer = styled.div`
     //border: solid red; //////////////////////
     width: 97%;
     height: 35rem;
-    display: flex;
-    flex-direction: row;
     overflow-x: auto;
+
+    @media ${device.iPhone12P} {
+        max-width: 390px;
+    }
 `
 
 export const TextContainer = styled.div`
     //border: solid blue;
-    display: flex;
-    margin-right: 20px;
     border: solid white; /////////
     border-radius: 10px;
     min-width: 300px;
     min-height: 500px;
     max-height: 300px;
-    padding: 20px;
+    padding: 0px;
     margin-bottom: 17px;
-    flex-direction: column;
 `   
 
 export const InnerContainer = styled.div`
@@ -46,36 +45,38 @@ export const InnerContainer = styled.div`
 
 export const CardContainer = styled.div`
     //border: solid cyan;
-    width: 900px;
+    width: 1200px;
     display:flex;
-    flex-direction: row;
     flex-wrap: wrap;
+
+    @media ${device.iPhone12P} {
+        flex-direction: column;
+        max-width: 300px;
+    }
 `
 
 export const IndividualCard = styled.div`
     //border: solid red;
-    background: #DFDFDF;
+    background: #2C2C2C;
     border-radius: 20px;
-    display: flex;
-    cursor: pointer;
-    padding: 1.5rem 0rem;
-    flex-direction: row;
+    padding: 0rem 0rem;
     justify-content: center;
     text-align: center;
     align-items: center;
     margin: 1rem;
-    width: 250px;
+    width: 300px;
+    padding: 20px;
 `
 
 // TEXT
 
 export const TitleA = styled.h1`
     font-size: 2rem;
-    color: #BDB0DD;
+    color: #9f8bcf;
 `
 
 export const TextA = styled.p`
-    color: white;
+    color: blue;
     font-size: 1.06rem;
     width: auto;
     align-content: justify;
@@ -84,7 +85,7 @@ export const TextA = styled.p`
 `
 
 export const TextB = styled.p`
-    color: #CBBDDA;
+    color: blue;
     font-size: 0.93rem;
     font-style: italic;
     width: auto;
@@ -95,7 +96,7 @@ export const TextB = styled.p`
 `
 
 export const HeaderP = styled.h1`
-    color: #fff;
+    color: #9f8bcf;
     font-size: 1.1rem;
     width: auto;
     align-content: justify;
@@ -105,17 +106,29 @@ export const HeaderP = styled.h1`
 `
 
 
-
-
 // VISUALS
-
-export const Img = styled.div`
-    height: 20rem;
-    width: 34rem;
-    align-items: center;
-`
-
 export const MobileIcon = styled.div`
     cursor: pointer;
+`
 
+export const Button = styled.button`
+    width: auto;
+    height: 20px;
+    border-radius: 8px;
+    padding-top:5px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom: 23px;
+    color: #9f8bcf;
+    font-size: 15px;
+    background-color: #191919;
+    border-width: 0px;
+    margin: 4px;
+    align-items: center;
+    text-align: center;
+    cursor:pointer;
+
+    &:hover {
+        opacity: 0.7;
+    }
 `

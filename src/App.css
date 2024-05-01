@@ -1,10 +1,26 @@
+:root {
+  --primary-color: #191919;    
+  --secondary-color:189, 143, 77;   
+}
+
 body {
-  background-color: #252423;
-  font-family: 'Exo 2', sans-serif;
+  background-color: var(--primary-color);
+  font-family: 'Roboto', sans-serif;
+
+
+  background-image: radial-gradient(
+      rgba(var(--secondary-color), 0.3) 5%, 
+        transparent 5%, 
+        transparent 30%, 
+        var(--primary-color) 30%
+    ); 
+    background-size: 16px 15px; 
+  
 }
 a {
   text-decoration: none;
-  color:black;
+  color:#9E9E9E;
+  font-family: 'Roboto', sans-serif;
 }
 
  

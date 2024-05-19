@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/hajarassim-portfolio/static/css/main.5dbbccc8.css",
-    "main.js": "/hajarassim-portfolio/static/js/main.0a989b63.js",
+    "main.js": "/hajarassim-portfolio/static/js/main.900b6b36.js",
     "static/js/787.ceae7bbe.chunk.js": "/hajarassim-portfolio/static/js/787.ceae7bbe.chunk.js",
     "static/media/cardImg2.png": "/hajarassim-portfolio/static/media/cardImg2.03de35a92e7b8a2e8f0f.png",
+    "static/media/cardImg5.png": "/hajarassim-portfolio/static/media/cardImg5.2796b7191f7a5748e84f.png",
+    "static/media/trendmicro.png": "/hajarassim-portfolio/static/media/trendmicro.aadd2056cfc1bc6271a3.png",
     "static/media/cardImg0.png": "/hajarassim-portfolio/static/media/cardImg0.9164e12222fc5416d468.png",
     "static/media/cardImg4.png": "/hajarassim-portfolio/static/media/cardImg4.3135a17af580b9aafac9.png",
     "static/media/cardImg3.png": "/hajarassim-portfolio/static/media/cardImg3.88a064d581ec12ada9ed.png",
+    "static/media/solace.png": "/hajarassim-portfolio/static/media/solace.0f029c21914cc6643be5.png",
     "static/media/welcome_image.svg": "/hajarassim-portfolio/static/media/welcome_image.e63ad4b1f7f34352ca07cf1223f75c18.svg",
     "static/media/aboutme.svg": "/hajarassim-portfolio/static/media/aboutme.ec7beed261e9ee3afee45683bd81a2af.svg",
     "index.html": "/hajarassim-portfolio/index.html",
     "static/media/entrust.svg": "/hajarassim-portfolio/static/media/entrust.70c0749feffe7ce049d5bd3e67bbd242.svg",
     "main.5dbbccc8.css.map": "/hajarassim-portfolio/static/css/main.5dbbccc8.css.map",
-    "main.0a989b63.js.map": "/hajarassim-portfolio/static/js/main.0a989b63.js.map",
+    "main.900b6b36.js.map": "/hajarassim-portfolio/static/js/main.900b6b36.js.map",
     "787.ceae7bbe.chunk.js.map": "/hajarassim-portfolio/static/js/787.ceae7bbe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5dbbccc8.css",
-    "static/js/main.0a989b63.js"
+    "static/js/main.900b6b36.js"
   ]
 }
